@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+*.zip
+raw_transactions (1).csv
+Trabalho I - Engenharia de Dados e MLOPs.pdf
